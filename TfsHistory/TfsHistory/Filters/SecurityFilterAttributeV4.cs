@@ -7,5 +7,9 @@ namespace TfsHistory.Filters
 {
 	public class SecurityFilterAttributeV4
 	{
+		public void Method1()
+		{
+
+		}
 	}
 }
