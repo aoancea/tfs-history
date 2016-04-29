@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace TfsHistory.Filters
+namespace TfsHistory.Engine
 {
 	public class SecurityFilterAttributeV5
 	{
-		public void Method1()
+		public void Method2()
 		{
 		}
 	}

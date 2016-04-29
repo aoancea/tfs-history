@@ -202,6 +202,7 @@
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Engine\SecurityFilterAttributeV5.cs" />
     <Compile Include="Filters\SecurityFilterAttributeV1.cs" />
     <Compile Include="Filters\SecurityFilterAttributeV2.cs" />
     <Compile Include="Filters\SecurityFilterAttributeV3.cs" />
@@ -284,6 +285,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Engine\Contract\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
