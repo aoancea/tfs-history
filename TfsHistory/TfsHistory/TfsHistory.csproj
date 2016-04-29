@@ -208,6 +208,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\SecurityHelperAttributeV3.cs" />
     <Compile Include="Helpers\SecurityHelperAttributeV1.cs" />
     <Compile Include="Helpers\SecurityHelperAttributeV2.cs" />
     <Compile Include="Helpers\TestHelperRenamed.cs" />

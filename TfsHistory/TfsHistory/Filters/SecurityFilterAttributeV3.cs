@@ -11,15 +11,5 @@ namespace TfsHistory.Filters
 		{
 
 		}
-
-		public void Method2()
-		{
-
-		}
-
-		public void Method3()
-		{
-
-		}
 	}
 }
