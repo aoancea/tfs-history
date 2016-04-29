@@ -5,7 +5,7 @@ using System.Web;
 
 namespace TfsHistory.Helpers
 {
-	public class TestHelper
+	public class TestHelperRenamed
 	{
 	}
 }
