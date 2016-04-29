@@ -205,6 +205,7 @@
     <Compile Include="Filters\SecurityFilterAttributeV1.cs" />
     <Compile Include="Filters\SecurityFilterAttributeV2.cs" />
     <Compile Include="Filters\SecurityFilterAttributeV3.cs" />
+    <Compile Include="Filters\SecurityFilterAttributeV4.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
