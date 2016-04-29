@@ -5,7 +5,7 @@ using System.Web;
 
 namespace TfsHistory.Helpers
 {
-	public class SecurityFilterAttributeV4
+	public class SecurityHelperAttributeV4
 	{
 		public void Method2()
 		{
