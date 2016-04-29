@@ -16,5 +16,10 @@ namespace TfsHistory.Filters
 		{
 
 		}
+
+		public void Method3()
+		{
+
+		}
 	}
 }
